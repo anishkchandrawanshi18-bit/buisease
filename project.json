@@ -1,0 +1,145 @@
+{
+    "users": [
+        {
+            "username": "entrepreneur1",
+            "email": "entrepreneur1@example.com"
+        },
+        {
+            "username": "guest_user",
+            "email": "guest@example.com"
+        },
+        {
+            "username": "string",
+            "email": "user@example.com",
+            "password_hash": "473287f8298dba7163a897908958f7c0eae733e25d2e027992ea2edc9bed2fa8"
+        },
+        {
+            "username": "anishk",
+            "email": "anishk@gmail.com",
+            "password_hash": "74c492982018eb18f60d5b165e3ecf61b2177c28b2dcfbecdd1fafd260fd519e"
+        },
+        {
+            "username": "pranjal",
+            "email": "pks@gmai.com",
+            "password_hash": "4891caa7bd9422933dcde0432f2aee097f66664ac5ae669026c9619786be23c8"
+        },
+        {
+            "username": "amit C",
+            "email": "amit@gmail.com",
+            "password_hash": "$2b$12$daE8zP5txH/5N.y2jQKxqOxy/hCwLsydoZ5R8OG7tFLCYWmwmZ0mi"
+        },
+        {
+            "username": "nanu",
+            "email": "nanu@gmail.com",
+            "password_hash": "$2b$12$0BFcJb5sdi6cky12IiaX7ugZTZQgWDhXWQSh0Uyh.eJXscqS1hcjy"
+        },
+        {
+            "username": "anshul",
+            "email": "ans@gmail.com",
+            "password_hash": "$2b$12$0FQWptpnt7lRK4ru2a0sj.UsZSPzq6xn24cPD3pAmUixex/xukkNK"
+        },
+        {
+            "username": "pks",
+            "email": "amm@gmail.com",
+            "password_hash": "$2b$12$vgAOXkr3ZiI00hr.9htmpubbiYqZDDx1l9GvM1nGZopkgzJU5iAwa"
+        },
+        {
+            "username": "raahul07",
+            "email": "rahul@gmail.com",
+            "password_hash": "$2b$12$DkLZaDdFLra4G7623BPxP.lX2VMRATW8Lz12qxN.4tW6V82ndtE7e"
+        },
+        {
+            "username": "tarkit01",
+            "email": "tarkit@gmail.com",
+            "password_hash": "$2b$12$TeiRZ9ymDnG.nA4DsFCnxu9L7LP222oroNPEImsg55fAuFogkuyHC"
+        },
+        {
+            "username": "vishal",
+            "email": "xyz@gmail.com",
+            "password_hash": "$2b$12$0SOe88k4/0xHRadOrQDFIejWatelNpsDvTt5gObU912Om2xolc.7y",
+            "created_at": "2026-10-24T14:54:32.384436+00:00"
+        }
+    ],
+    "competitor_analysis": {
+        "food_delivery": {
+            "Zomato": {
+                "good_features": [
+                    "Amazing app, but it is a little difficult to navigate, especially when I need to order food. Update: Tech feedback: the app when minimized, just disappears, you have to go to apps and open it again, though context is restored, but everytime you have to go open it again, if you minimize. Which most people I think do a lot. Update: this has been fixed now",
+                    "Great offers. User-friendly interface. Edit: Would be much better and convenient if there's an option for the users to choose the outlet of the restaurant and not automatically display the one that'll the deliver the fastest. It's not always about delivery time. Sometimes it's about the variation in food quality among different outlets!",
+                    "Searching for places to eat and ordering online is quick and easy. Keeping a history of earlier visits and favourite places is nice. Sometimes the app doesnt detect the location correctly but that can be fixed with a little manual entry. Ability to filter by type of cuisine, dine in or take away etc is good. The new food category filter is very good. The ordering process has become easier.",
+                    "Enjoying it but if they are going to make limits to use Zomato Gold then it will be no fun... wont think to subscribe for gold again. I hope it remains the same as it was. Rest if anything you are ordering nd if you haven't receive your full order then zomato do compensate it for. Everything is going good so far with zomato only Wondering if what changes they may do with Zomato Gold.",
+                    "It is a wonderful app, and they have come a long way from being a restaurant rating company to food delivery. Constantly adding user friendly features. The plastic recycling initiative is a step in the right direction. Only request is to figure out ways in which we can return the used containers, I know there are logistical challenges but things like areawise Dropbox could be explored.",
+                    "I have been using Zomato for the longest time that I can remember. Absolutely love the app. However, I feel that they could help in better discounts and offers for yearly membership to make ordering at a budget easier. Also, food options at certain places cannot be accessed, do see if you guys can penetrate those restaurants and areas and get the food delivered. Happy \ud83d\ude0a me!",
+                    "It is often nice to order delicacies while m enjoying my day. Without leaving my home nd finding a restaurant i get delicious food delivered at my home. So overall a very nice nd homely gesture put forward by the app. The only problem occurs on rainy days when almost all restaurants do not offer delivery nd zomato vallets r not assigned for most of the restaurants. So hope zomato would fix this very soon. \ud83d\ude0a",
+                    "I like the whole experience of the App, whether it is Live Tracking or the personalisations or be it the user interface. I also like the concept of Tipping the delivery person which to me seems genuinely transparent. Lastly, the concept of getting all the unreachable eating places under one umbrella has not only expanded their customer base but has also given us flexibility to order from these places wherever we want it be delivered without actually being there. A Big THUMBS UP to TEAM ZOMATO!!!",
+                    "Yeah they are doing good job . i like it. some times when my mom goes to village i will go to zomato and order a delici food . The point is that occasionally off should be more on food for 50 % off some amount of money is only decreas . If they decrease correctly 50% then i will be totally happy . I have to thank zomato in some cases whem my mom goes to the village then literally zomato only feeds me . So for this reason I am fully thankful for you. what are you waiting for go and instal it .",
+                    "Must have app for surviving in a metropolitan city as a student"
+                ],
+                "bad_features": [
+                    "The apps not working properly since past 3 days, no restaurant is accepting orders, orders are getting canceled due to unavailability of riders. The app's a mess. I had a nice experience on Zomato but recently I've faced a lot of issues with this App. I preferred it over other competitors but now I think I need to look for other options since ur app's not functioning properly.",
+                    "Disappointing Experience. Wanted to change payment option from a credit card (that wasn't handily available) to net banking. It was stuck in a loop where it kept trying to make me use the existing card. Ended up adding another card and then it said the price had changed and I should look at another restaurant. Too many bells and whistles but difficult to get simple things done.",
+                    "Waste. Refund policy hopeless. I was a first time user and my account was linked to paytm. I ordered the food and unknowingly I rejected the order. After I requested immediately to continue with the order but they canceled the order without any refund or delivery of food. I lost 500 bucks. I and my friends skipped the meal that day. And I promised myself not use the app in future. It's not customer friendly. Also it is contributing in environmental problems due to the parcel garbage in my city.",
+                    "Its a smooth experience in ordering food from the app. But I had a very bad experience from it. I placed order for my friend and then placed for me but forgot to change the address. It was written 100 refund on cancellation so I cancelled the order and just got 20% refund. The customer service agent said we can't refund the remaining. What an easy way to make money. My hard earned money gone.",
+                    "worst app ever... very poor customer care services. they don't respond at time. its been an hour and they are still showing that your order is being prepared and no valet has been assigned yet.. earlier one of their valet didn't came to the destination as appointed and said that you were not picking up the phone that's why he didn't came. they don't refund money as obvious",
+                    "App UI is good and offers are nice. Also am a Pro member and have had hundreds of deliveries. However, the customer service has gone down in recent times. Have had a horrible experience with one of the orders that was delivered with missing items. They wouldn't listen at all and kept on insisting that full order was delivered. Left a very bitter aftertaste. Post edit: I got refund after the complaint got escalated. Thanks Zomato.",
+                    "doesnt open until i give location permission so will have to uninstall now unless u change this dictatorial term. why r u forcing me to give u this location permission? i will give u delivery address when time comes! also no option for takeaway in case i m near restaurant n want to use discount, n save on delivery charges by picking it up myself. very few discounts offered compared to others.",
+                    "Be careful while ordering through this app. If there's any issues or problems with the orders, like open package or delayed delivery or spilled or leaked items, they have no solutions, or compensations, the' chat' for similar issues in the app is just that, wasteful chat. In such cases , they do not accept returns , or cancel. As long as things are going okay, no problem. Cash payment for orders are safer.",
+                    "Overall experience is good. However a lot of opportunity to improve user experience in search and filters to reduce time taken to place order. Over the last few instances, the ETA has been incorrect. After the ETA expires, it continues to show a constant 'reaching you in 22 mins' perpetually. Wrong status updates. Order picked up automatically moves to 'order is on the way' status. However the delivery partner is still waiting for another order to be picked up. This is PRO Experience.",
+                    "Worst app! Doesn't let you cancel order stating about some penalty for doing so once the ordered is confirmed but has no option to cancel before it is confirmed. I wanted to place order from somewhere else and hence, I had to cancel it. But I changed my mind to permanently getting rid of this app after that conversation. Never going to install it again. PS: Do not state about issue resolution in reply because I do not want anything resolved now."
+                ],
+                "unavailable_features": [
+                    "Cannot order from two different restaurants in a single order",
+                    "Lack of advanced nutritional/dietary filtering on search results",
+                    "No integrated option to easily split the bill with friends"
+                ]
+            },
+            "Swiggy": {
+                "good_features": [
+                    "Earlier my experience with swiggy wasn't that great , But after forcing myself to use this platform instead of zomato just to compare it in a better way , I can clearly say that the experience has been great. I had issues with late customer care service but that thing has been pretty much fixed , Would surely recommend swiggy without a doubt. loving the current swiggy experience.",
+                    "Really a wonderful app. It is easy to use. The restaurants and dishes, are well organised, so that customers could easily choose from them. The customer support is also too good. Really liked it. Only drawback is that their offers wont cater to everyone. They should provide 'SWIGGYIT' as a common offer, other than providing offers on some credit cards.",
+                    "You guys are awesome. I have already written a review for good service, but I'm writing now for best service. I had an item missing from my order, unsure it was error from restaurant's side (to note they were busy taking orders and didn't even check my concern). On the other hand, the Swiggy customer service agents are so polite and cool to resolve my issue and the best part is they have replaced my order free of cost. This is SERVICE. I have become fan. Keep it up guys. Good luck. FIVE STARS.",
+                    "I am really happy with this App because of many reasons. Offcourse there are areas of improvements such as (a) Regular or repeat customer benefits or points or discounts, (b) Notification of repeat customer of the same restaurant, (c) Monthly Bill's or bill cycle etc. I have so many areas of improvement in mind for Swiggy, but as of now it's good. I govern strategy and innovation for 3rd largest brand in India, thus suggesting.",
+                    "Great app. Always there for hungry people. Wide variety of restaurants and buckets of Menus. Only one suggestion for now that please encourage your restaurants to add short details about food item (like taste, how its made or what ingredients it have). It will be really nice to have these and also helps people to choose what they want actually and will encourage people to try some new food items than usual. I found some restaurants like Flycurry has above said details already in their menus.",
+                    "This app changed our perspective of looking towards food. The dishes that are not affordable to us, Swiggy made cheap for us. The delivery boys are also supportive and well behaving. The food delivered to us is testy and feels like freashly prepared. Thanks sweggy for making our life easier. We expect that you will always deliver us tasty food with discounts. Keep promoting offers and coupons. It will be very helpful for us. Thank you for making such superb app.",
+                    "I really liked the app. They deliver the food on time but sometimes the are late but anyway . I really loved the app swiggy make your app outstanding . some people complain . But I will say super se bhi uper hai ye loved it . many say keep it up . I will say don't keep it up do more hardwork and make the app famous and fabulous and fantastic but for me it is already fabulous and outstanding \ud83d\ude09\ud83d\ude09",
+                    "Wonderful food and wonderful app makes us happy. It's very helpful and will conserve your energy \ud83d\ude42. Their service is excellent. The graphics are great. The customer service is very delightful. I had great experience with it and shall continue to have it. The app is user friendly. And a point must not be missed is their immediate response to customer feedback impressed me a lot. Many apps don't pay attention towards the rating or feedbacks and hence are unable to fix customer bugs.",
+                    "I had an amazing experience with Swiggy, I am a satisfied customer of yours and I always feel great to order food from swiggy.Thanks for this amazing service provided by your company. A must recommended app to everyone. Once I had one of my items undelivered and I complained about the same to swiggy and the item was delivered within 15 mins without any extra charges. Happy with your service.\ud83d\ude04",
+                    "My experience was wonderful on Swiggy. I liked this app very much. The delivery boy was also a very good person and very friendly. Tracking option is very useful. You can track your every minute and it will show exact place. Delivery timing was also same as shown while ordering. I love this app. Thank you Swiggy"
+                ],
+                "bad_features": [
+                    "Though the food options available are good on swiggy, but the app is not user friendly. While I was searching for some dish, in the results that popped up had lot of promoted items and there was no option at all to filter out or sort out for my convenience. I had to scroll through a lot to find some dish of my choice. Very bad experience. Update : for the swiggy team asking me to send mail, I don't know what else you want in mail. I've written my feedback here, ignore if you're not interested.",
+                    "I use Swiggy everyday. The experience has been very good. Everyday I discover some restaurant and also enjoy the discounts they offer. The app is very clear and intuitive. 5 stars. Update. The new update to the App has totally ruined it. It is full of clutter now with uncessary graphics and animation. The previous design was neat, clean, and readable. An animation everytime you apply a coupon, is that necessary? Learn from google, they can add all sorts of things if they want, but they dont!",
+                    "There are two issues with the app because of which I'll not use it anymore. Firstly, when I open the app, the first screen is an advert screen, rather than search screen. Why the extra steps to do the most basic functionality? Secondly, your GPS routing is incorrect so many times, it becomes a hassle for both the delivery person and the client to complete the order. It has happened multiple times that I've to travel atleast 1.5 km to recieve my order.",
+                    "Swiggy clearly has to be one of the worst apps ever for me. Always Overpriced, and Unreliable at the time of need. They keep saying 'all the delivery partners in your area are busy' almost everytime I need to order. If this is the case at the slightest rush, isn't it obvious that they are understaffed and uninterested in improving their services? Also, the restaurant availability keeps on changing in the blink of an eye! I think it's high time to uninstall this stupid app.",
+                    "Swiggy one is a scam, don't buy it. Limited restaurants for free delivery, and on top of that you have to add a certain amount over which free delivery will be applicable. Also whenever I add items from a restaurant which is giving me a great deal (ex. 30% off on the bill), it is quickly tagged \"unservicable due to high demand\" by the app. Not only this, but when the restaurant starts delivering again the coupon/offer is no more. Zomato pro+ is much better and I regret buying swiggy one.",
+                    "The recent update has made it take longer to get to where you need. The home page has too many different sections now, possibly because Swiggy is providing more services, but it's too much to look at. And correct me if I'm wrong, but they've taken away the \"cost for two\" for each restaurant on the home page, which means we have to click into the restaurant to get that information. Seems a little devious to me. To sum up: more to tap, more distractions, more confusing, less enjoyable.",
+                    "Swiggy has touched a very low point in it's services. From last three times, I have had the worst experience with this app. They have delivered the food in 2-3 hrs each time. After 40 mins, they realize that the item is not available. And this time, after 2 hours, the delivery partner reached the wrong address and then refused to deliver to the correct location. What on earth has happened to swiggy!",
+                    "Swiggy doesn't allow cancellation for paid orders even if you try to cancel it within 1 second after ordering. Neither does it alows to change address. You have to chat with a bot and after much waste of time Swiggy cancels the order and deduct Rs.200 on a Rs.1000 order. Pathetic customer service. Deleting the app and never going to use it again.",
+                    "Placed an order on instamart for few essentials. Threw me an error saying few things in my order were unavailable, however the amount was debited. Assuming that it would be refunded, I placed another order, changing few items in the order (as I mentioned few items were unavailable after I got the error). With minutes, I got both the orders and amount deducted for them both. No help/support received from the customercare even though the issue was with the app.",
+                    "I have been using Swiggy for a long time. And I am sorry to say there have been issues .. and really Swiggy is just extremely poor at handling them. And I am not saying this after the first time I faced problem. Even we understand that, there could be technical glitch. But Swiggy just sucks at resolving them. They can only cancel and refund your money within the next few working days. That's all and everything Swiggy can do."
+                ],
+                "unavailable_features": [
+                    "Cannot order from two different restaurants in a single order",
+                    "Lack of advanced nutritional/dietary filtering on search results",
+                    "No integrated option to easily split the bill with friends"
+                ]
+            }
+        }
+    },
+    "study_tasks": [
+        {
+            "task_id": 1,
+            "username": "entrepreneur1",
+            "title": "food ",
+            "description": "inspection",
+            "status": "Completed"
+        },
+        {
+            "task_id": 5,
+            "username": "anishk",
+            "title": "guyfvj",
+            "description": "nb vv,j",
+            "status": "pending"
+        }
+    ]
+}
